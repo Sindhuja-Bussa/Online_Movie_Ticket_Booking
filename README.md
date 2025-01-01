@@ -1,4 +1,4 @@
-# Online_Movie_Ticket-Booking
+# Online_Movie_Ticket_Booking
 Online Movie Ticket Booking System
 
 A user-friendly program for booking movie tickets online.
